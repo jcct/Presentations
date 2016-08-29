@@ -1,0 +1,355 @@
+ /*********************************************
+ * STATE BACKGROUNDS
+ *********************************************/
+.master .state-background {
+	background: white url(../../common-assets/backgrounds/master-domain.gif) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.mr-clean .state-background {
+	background: white url(../../common-assets/backgrounds/mr-clean.gif) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.flower-open .state-background {
+	background: white url(../../common-assets/backgrounds/flower-open.gif) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.mr-clean .state-background {
+	background: white url(../../common-assets/backgrounds/mr-clean.gif) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.sweat .state-background {
+	background: white url(../../common-assets/backgrounds/sweat.gif) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.here .state-background {
+	background: white url(../../common-assets/backgrounds/here.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.org .state-background {
+	background: white url(../../common-assets/backgrounds/org.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.designer .state-background {
+	background: white url(../../common-assets/backgrounds/designer.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.boss .state-background {
+	background: white url(../../common-assets/backgrounds/boss.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+
+.dog-eared .state-background {
+	background: white url(../../common-assets/backgrounds/dog-eared.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.portfolio .state-background {
+	background: white url(../../common-assets/backgrounds/portfolios.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.friends .state-background {
+	background: white url(../../common-assets/backgrounds/friends.png) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.rube .state-background {
+	background: white url(../../common-assets/backgrounds/rube.png) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.content .state-background {
+	background: white url(../../common-assets/backgrounds/script-text.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.motion .state-background {
+	background: white url(../../common-assets/backgrounds/motion.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.context .state-background {
+	background: white url(../../common-assets/backgrounds/context.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.engage .state-background {
+	background: white url(../../common-assets/backgrounds/engage.jpg) center no-repeat;
+	color: transparent;	
+	background-size: cover;
+}
+.clock .state-background {
+	background: white url(../../common-assets/backgrounds/clock.jpg) center no-repeat;
+	color: transparent;
+}
+.mac-mod .state-background {
+	background: white url(../../common-assets/backgrounds/mac-mod.jpg) center no-repeat;
+	color: black;
+}
+.mac-classic .state-background {
+	background: white url(../../common-assets/backgrounds/mac-classic.jpg) center no-repeat;
+	color: black;	
+}
+.girl-mountain .state-background {
+	background: transparent url(../../common-assets/photos/girl_staring_at_mountains.jpg) center no-repeat;
+	background-size: cover;
+}
+.abstract .state-background {
+	background: transparent url(../../common-assets/backgrounds/abstract.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.city_02 .state-background {
+	background: transparent url(../../common-assets/backgrounds/city_02.jpg) center no-repeat;
+	background-size: cover;
+}
+.lou .state-background {
+	background: transparent url(../../common-assets/photos/lou.jpg) center no-repeat;
+	background-size: cover;
+}
+.marriott .state-background {
+	background: transparent url(../../common-assets/screens/Marriott_Main.png) center no-repeat;
+	background-size: contain;
+}
+
+.presto .state-background {
+	background: transparent url(../../common-assets/images/presto.jpg) center no-repeat;
+	background-size: contain;
+}
+
+.leonardo .state-background {
+	background: transparent url(../../common-assets/photos/leonardo.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.boardroom .state-background {
+	background: transparent url(../../common-assets/photos/boardroom.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.cmcmag .state-background {
+	background: transparent url(../../common-assets/screens/CMCMag.png) center no-repeat;
+	background-size: contain;
+}
+
+.device-frag .state-background {
+	background: transparent url(../../common-assets/backgrounds/device-fragmentation.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.internet-of-things .state-background {
+	background: transparent url(../../common-assets/backgrounds/internet-of-things.jpg) center no-repeat;
+	background-size: contain;
+}
+
+.degas-sketch .state-background {
+	background: transparent url(../../common-assets/backgrounds/Degas-Sketch.jpg) center no-repeat;
+	background-size: contain;
+}
+
+.degas-wax .state-background {
+	background: transparent url(../../common-assets/backgrounds/Degas-Wax.jpg) center no-repeat;
+	background-size: contain;
+}
+
+.degas-bronze .state-background {
+	background: transparent url(../../common-assets/backgrounds/Degas-Bronze.jpg) center no-repeat;
+	background-size: contain;
+}
+
+.weave .state-background {
+	background: transparent url(../../common-assets/backgrounds/weave.jpg) center;
+	background-size: cover;
+}
+
+.polarexpress .state-background {
+	background: transparent url(../../common-assets/backgrounds/polarexpress.jpg) center;
+	background-size: cover;
+}
+
+.band .state-background {
+	background: black url(../../common-assets/backgrounds/band.jpg) center;
+	background-size: cover;
+}
+
+.roll .state-background {
+	background: black url(../../common-assets/backgrounds/rolled.jpg) center;
+	background-size: cover;
+}
+
+.tools .state-background {
+	background: black url(../../common-assets/backgrounds/tools.jpg) center;
+	background-size: cover;
+}
+
+.tools2 .state-background {
+	background: black url(../../common-assets/backgrounds/tools2.jpg) center;
+	background-size: cover;
+}
+
+
+.future .state-background {
+	background: black url(../../common-assets/backgrounds/Future_City.jpg) center;
+	background-size: cover;
+}
+
+.music .state-background {
+	background: black url(../../common-assets/backgrounds/sheet_music.jpg) center;
+	background-size: cover;
+}
+
+.music-sheet .state-background {
+	background: transparent url(../../common-assets/images/context-music-sheet.jpg) center;
+	background-size: cover;
+}
+
+.sjobs .state-background {
+	background: black url(../../common-assets/images/sjobs.jpg) 350px center;
+	background-size: cover;
+}
+
+.jspool .state-background {
+	background: black url(../../common-assets/images/jspool.jpg) no-repeat -150px center;
+	background-size: contain;
+}
+.context-computer .state-background {
+	background: transparent url(../../common-assets/images/context-desktop.jpg) center;
+	background-size: cover;
+}
+.context-tablet .state-background {
+	background: transparent url(../../common-assets/images/context-ipad.jpg) center;
+	background-size: cover;
+}
+.context-smartphone .state-background {
+	background: transparent url(../../common-assets/images/context-smartphone.jpg) center;
+	background-size: cover;
+}
+
+.context-map .state-background {
+	background: transparent url(../../common-assets/images/ancient-map.jpg) center;
+	background-size: cover;
+}
+
+.context-blueprint .state-background {
+	background: transparent url(../../common-assets/images/blueprint.jpg) center;
+	background-size: cover;
+}
+
+
+.context-cliff .state-background {
+	background: transparent url(../../common-assets/images/cliff.jpg) center;
+	background-size: cover;
+}
+
+
+.pixel-perfect .state-background {
+	background: transparent url(../../common-assets/images/pixels.jpg) center;
+	background-size: cover;
+}
+
+.site-map .state-background {
+	background: transparent url(../../common-assets/images/sitemap.png) top;
+	background-size: cover;
+}
+
+.story-board .state-background {
+	background: transparent url(../../common-assets/images/storyboard.png) top;
+	background-size: cover;
+}
+
+.wireframe .state-background {
+	background: transparent url(../../common-assets/images/wireframe.png) top;
+	background-size: cover;
+}
+
+.moodboard .state-background {
+	background: transparent url(../../common-assets/images/moodboard.jpg) top;
+	background-size: cover;
+}
+
+.visual-mock .state-background {
+	background: transparent url(../../common-assets/images/comp.jpg) top;
+	background-size: cover;
+}
+
+
+.white .state-background {
+	background: rgb(255,255,255);
+	color: rgb(0,0,0);
+}
+
+
+.calm .state-background {
+	background: rgb(0,0,142);
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(107,99,97)), to(rgb(57,49,47)));
+    background: -webkit-radial-gradient(rgb(107,99,97), rgb(57,49,47));
+    background:    -moz-radial-gradient(rgb(107,99,97), rgb(57,49,47));
+    background:     -ms-radial-gradient(rgb(107,99,97), rgb(57,49,47));
+    background:      -o-radial-gradient(rgb(107,99,97), rgb(57,49,47));
+    background:         radial-gradient(rgb(107,99,97), rgb(57,49,47)); 
+}
+
+.stop .state-background {
+	background: rgb(142,0,0);
+    background: -webkit-radial-gradient(rgb(142,0,0), rgb(42,0,0));
+    background:    -moz-radial-gradient(rgb(142,0,0), rgb(42,0,0));
+    background:     -ms-radial-gradient(rgb(142,0,0), rgb(42,0,0));
+    background:      -o-radial-gradient(rgb(142,0,0), rgb(42,0,0));
+    background:         radial-gradient(rgb(142,0,0), rgb(42,0,0)); 
+}
+
+.caution .state-background {
+	color: rgb(0,0,0);
+	background: rgb(142,0,0);
+    background: -webkit-radial-gradient(rgb(142,142,0), rgb(42,42,0));
+    background:    -moz-radial-gradient(rgb(142,142,0), rgb(42,42,0));
+    background:     -ms-radial-gradient(rgb(142,142,0), rgb(42,42,0));
+    background:      -o-radial-gradient(rgb(142,142,0), rgb(42,42,0));
+    background:         radial-gradient(rgb(142,142,0), rgb(42,42,0)); 
+}
+
+.go .state-background {
+	background: rgb(142,0,0);
+    background: -webkit-radial-gradient(rgb(0,142,0), rgb(0,42,0));
+    background:    -moz-radial-gradient(rgb(0,142,0), rgb(0,42,0));
+    background:     -ms-radial-gradient(rgb(0,142,0), rgb(0,42,0));
+    background:      -o-radial-gradient(rgb(0,142,0), rgb(0,42,0));
+    background:         radial-gradient(rgb(0,142,0), rgb(0,42,0)); 
+}
+
+
+.light .state-background {
+	background: rgb(242,242,242);
+    background: -webkit-radial-gradient(rgb(242,242,242), rgb(142,142,142));
+    background:    -moz-radial-gradient(rgb(242,242,242), rgb(142,142,142));
+    background:     -ms-radial-gradient(rgb(242,242,242), rgb(142,142,142));
+    background:      -o-radial-gradient(rgb(242,242,242), rgb(142,142,142));
+    background:         radial-gradient(rgb(242,242,242), rgb(142,142,142)); 
+}
+
+.dark .state-background {
+	background: rgb(42,42,42);
+    background: -webkit-radial-gradient(rgb(42,42,42), rgb(0,0,0));
+    background:    -moz-radial-gradient(rgb(42,42,42), rgb(0,0,0));
+    background:     -ms-radial-gradient(rgb(42,42,42), rgb(0,0,0));
+    background:      -o-radial-gradient(rgb(42,42,42), rgb(0,0,0));
+    background:         radial-gradient(rgb(42,42,42), rgb(0,0,0)); 
+}
+
+.darkgray .state-background {
+	background: rgb(42,42,42);
+    background: -webkit-radial-gradient(rgb(153,153,140), rgb(42,42,42));
+    background:    -moz-radial-gradient(rgb(142,142,142), rgb(42,42,42));
+    background:     -ms-radial-gradient(rgb(142,142,142), rgb(42,42,42));
+    background:      -o-radial-gradient(rgb(142,142,142), rgb(42,42,42));
+    background:         radial-gradient(rgb(142,142,142), rgb(42,42,42)); 
+}
